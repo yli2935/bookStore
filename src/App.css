@@ -1,0 +1,33 @@
+/* App.css */
+
+/* Styles for the Vite and React logos */
+.logo {
+    width: 120px;
+    height: 120px;
+    margin-right: 20px;
+  }
+  
+  .react {
+    width: 100px;
+  }
+  
+  /* Styles for the main heading */
+  h1 {
+    color: #333;
+  }
+  
+  /* Styles for the card */
+  .card {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+  }
+  
+  /* Styles for the read-the-docs paragraph */
+  .read-the-docs {
+    margin-top: 20px;
+    font-style: italic;
+    color: #666;
+  }
+  
