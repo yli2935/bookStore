@@ -91,6 +91,7 @@
     align-items: center;
     color: rgb(0, 0, 0); 
     margin-top: 50%;
+    margin-left:35%;
   }
   
   .add-book-icon:hover {
